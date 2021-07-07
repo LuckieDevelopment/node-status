@@ -1,6 +1,6 @@
 const { Client, Collection, MessageEmbed, Presence } = require("discord.js");
 const client = new Client();
-const token = "ODYyMjA5NDIyNjQ5MzI3NjM3.YOVBGQ.lt-q0fq2s55shumpOdRan_aVovA"
+const token = "token"
 const prefix = "n!"
 const botname = "Hosting Example"
 const status = "Node Stats | n!stats"
